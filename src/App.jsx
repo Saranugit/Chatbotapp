@@ -74,7 +74,7 @@ function App() {
           
         </div>
       </div>
-      <p className="copyright">Designed by <span>@Saran</span></p>
+      <p className="copyright">Designed by <span>@Saranugit</span></p>
     </div>
     </>
   )
